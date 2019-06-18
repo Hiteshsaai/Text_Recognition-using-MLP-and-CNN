@@ -1,3 +1,6 @@
+![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
+![Keras 2.2.4](https://img.shields.io/badge/Keras-2.2.4-blue.svg)
+
 # Alphabet Recognition in Real Time
 
 ## INTRODUTION:
