@@ -30,3 +30,18 @@ If python is pre installed in the system the following command for termainal lin
 
 ```pip install opnecv```
 
+## Deployment
+
+Files to run in steps,
+
+* Run cnn_model.py (*It will create a .h5 file on your folder*)
+* Run mlp_model.py (*It will create a .h5 file on your folder*)
+* Finally, Run alphabet_recognition.py 
+
+# Build On
+
+[spyder](https://www.spyder-ide.org/)
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md)
