@@ -34,9 +34,9 @@ If python is pre installed in the system the following command for termainal lin
 
 Files to run in steps,
 
-* Run cnn_model.py (*It will create a .h5 file on your folder*)
-* Run mlp_model.py (*It will create a .h5 file on your folder*)
-* Finally, Run alphabet_recognition.py 
+* Run [cnn_model.py](cnn_model.py) (*It will create a .h5 file on your folder*)
+* Run [mlp_model.py](mlp_model.py) (*It will create a .h5 file on your folder*)
+* Finally, Run [alphabet_recognition.py](alphabet_recognition.py) 
 
 # Build On
 
