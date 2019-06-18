@@ -32,7 +32,7 @@ If python is pre installed in the system the following command for termainal lin
 
 ## Dataset Used 
 
-**MNIST** dataset has been used to train the model
+**MNIST** dataset has been used to train the model.
 
 ## Deployment
 
@@ -44,7 +44,7 @@ Files to run in steps,
 
 # Build On
 
-[spyder](https://www.spyder-ide.org/)
+[Spyder IDE](https://www.spyder-ide.org/)
 
 # License
 
