@@ -30,13 +30,17 @@ If python is pre installed in the system the following command for termainal lin
 
 ```pip install opnecv```
 
+## Dataset Used 
+
+**MNIST** dataset has been used to train the model
+
 ## Deployment
 
 Files to run in steps,
 
 * Run [cnn_model.py](cnn_model.py) (*It will create a .h5 file on your folder*)
 * Run [mlp_model.py](mlp_model.py) (*It will create a .h5 file on your folder*)
-* Finally, Run [alphabet_recognition.py](alphabet_recognition.py) 
+* Finally, Run [alphabet_recognition.py](alphabet_recognition.py)
 
 # Build On
 
